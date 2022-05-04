@@ -29,7 +29,7 @@ include('array.php');
     </header>
     <main class="py-5">
         <div class="container-sm">
-            <div class="row mx-5 pt-5 mt-5">
+            <div class="row mx-5 mt-5">
                 <div class="col-12">
                     <?php
                         foreach ($arrayFaq as $key => $item) {
